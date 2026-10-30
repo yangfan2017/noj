@@ -1,0 +1,6 @@
+{
+  "name": "CIT Smart Attendance Management",
+  "description": "Smart Attendance Management Software for CIT Computer Training Institute, Bomdila, integrated with Google Sheets and Google Forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
